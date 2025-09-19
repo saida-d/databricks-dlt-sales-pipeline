@@ -1,4 +1,4 @@
-# DLT Online Sales Pipeline (POC)
+# DLT Online Sales Pipeline
 
 This project implements a **Delta Live Tables (DLT)** streaming pipeline following the **Medallion Architecture** (Bronze, Silver, Gold layers) for processing sales data. The pipeline is designed to handle streaming data ingestion, transformation, and aggregation to provide reliable, scalable, and maintainable data processing for business analytics.
 
